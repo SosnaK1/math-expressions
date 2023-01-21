@@ -195,7 +195,7 @@ class Lexer {
     keywords['floor'] = TokenType.FLOOR;
     keywords['sgn'] = TokenType.SGN;
     keywords['ln'] = TokenType.LN;
-    keywords['e'] = TokenType.EFUNC;
+    keywords['exp'] = TokenType.EFUNC;
     keywords['('] = TokenType.LBRACE;
     keywords[')'] = TokenType.RBRACE;
     keywords['{'] = TokenType.LBRACE;
